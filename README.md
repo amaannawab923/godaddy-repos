@@ -3,6 +3,15 @@
 A modern, responsive React application that displays GoDaddy's GitHub repositories with advanced filtering, search, and detailed repository information.
 
 
+## 🛠️ Technology Stack
+
+- **React 18** with TypeScript
+- **Styled Components** for styling and theming
+- **React Router** for navigation
+- **Lucide React** for icons
+- **Vite** for bundling
+- **Jest** and **React Testing Library** for testing
+
 ## 📦 Installation
 
 1. Clone the repository:
@@ -20,16 +29,6 @@ npm install
 ```bash
 npm run dev
 ```
-
-## 🛠️ Technology Stack
-
-- **React 18** with TypeScript
-- **Styled Components** for styling and theming
-- **React Router** for navigation
-- **Lucide React** for icons
-- **Vite** for bundling
-- **Jest** and **React Testing Library** for testing
-
 
 
 4. Open your browser and navigate to `http://localhost:5173`
