@@ -16,8 +16,8 @@ A modern, responsive React application that displays GoDaddy's GitHub repositori
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd godaddy-repos-explorer
+git clone https://github.com/amaannawab923/godaddy-repos.git
+cd godaddy-repos
 ```
 
 2. Install dependencies:
